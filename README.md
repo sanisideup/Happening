@@ -11,4 +11,6 @@ We never delployed this on to the internet. This was an intial concept that we t
 Devpost: 
 https://devpost.com/software/happening-ng6o0f
 
-Update: Product launch September 2017 
+## September 2017 Update: 
+
+https://whatshappening.co 
